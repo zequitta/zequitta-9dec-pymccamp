@@ -121,4 +121,4 @@ def Dig():
         agent.move(DOWN, 1)
         agent.collect_all()
 
-player.on_chat("Dig", Dig)
+player.on_chat("Dig", Dig)o
